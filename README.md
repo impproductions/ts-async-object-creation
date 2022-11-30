@@ -26,4 +26,4 @@ Please note that:
 - The arguments for the creatAsync() method are the same as the child class constructor, and intellisense is preserved, so the user can inherit from the base class with almost no knowledge and additional work required
 
 ## Purpose
-None. I was bored and wanted to see if I could do it.
+I don't think this has any practical use in production.
